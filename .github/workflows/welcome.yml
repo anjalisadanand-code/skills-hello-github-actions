@@ -1,0 +1,7 @@
+Anjali: Post welcome comment
+on:
+  pull_request: 
+     types: [opened]
+permissions: 
+  pull pull-requests: write
+  
